@@ -5,4 +5,4 @@ Maria Vitoria do Nascimento Lira
 Rayssa Alves da Silva
 
 Objetivo da atividade avaliativa:
-Obter conhecimento por meio da prática para rastrear arquivo e o enviar ao repositório remoto. Utilizando github, gitpod e git.
+Obter conhecimento por meio da prática para rastrear arquivo e o enviar ao repositório remoto, criar um Pull Request e colocar uma pessoa para revisar. Utilizando github, gitpod e git.
