@@ -9,4 +9,4 @@ Obter conhecimento por meio da prática para rastrear arquivo e o enviar ao repo
 
 # Especificações:
 
-trabalho solicitado pelo professor Daniel Firema, da disciplina ENSO(Engenharia de software), para obtenção de conhecimento.
+Trabalho solicitado pelo professor Daniel Fireman, da disciplina de ENSO(Engenharia de Software), com intuito de obter conhecimentos sobre a ferramenta GitHub que será nosso instrumento de trabalho até o final do ano letivo de 2022.
