@@ -6,6 +6,7 @@ import io.jooby.exception.BadRequestException;
 
 @Path("/divisao/{op}/{op2}")
 public class Divisao {
+   
    @GET
    public double calcula(@PathParam("op") String opStr, @PathParam("op2") String opStr2) {
       try {
