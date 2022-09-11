@@ -6,6 +6,7 @@ import io.jooby.annotations.*;
 public class Index {
 
   @GET
+  @Path("/")
   public String index() {
     return "Bem-vindos/as a API calculadora";
   }
