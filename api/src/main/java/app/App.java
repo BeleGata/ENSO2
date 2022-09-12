@@ -10,7 +10,7 @@ public class App extends Jooby {
     mvc(new Divisao() );
     mvc(new Subtracao());
     mvc(new Adicao());
-    mvc(new Multiplicacao());
+    mvc(new Multiplicacao2());
     
   }
  
