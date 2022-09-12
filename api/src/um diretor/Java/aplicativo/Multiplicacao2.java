@@ -10,6 +10,7 @@ public class Multiplicacao {
    @GET
    public double calcula(@PathParam("op") String opStr, @PathParam("op2") String opStr2) {
     System.out.println("Lembresse quando um dos valores for 0, o produto também será 0.");
+    
        try {
            double op = Double.parseDouble(opStr);
            double op2 = Double.parseDouble(opStr2);
