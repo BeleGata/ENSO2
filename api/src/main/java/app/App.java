@@ -11,6 +11,7 @@ public class App extends Jooby {
     mvc(new Subtracao());
     mvc(new Adicao());
     mvc(new Multiplicar());
+
     
   }
  
