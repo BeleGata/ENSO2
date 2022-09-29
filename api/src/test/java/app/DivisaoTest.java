@@ -18,7 +18,5 @@ public class DivisaoTest {
         Divisao divisao = new Divisao();
         double resultado = divisao.calcula("5", "0.5");
         assertEquals(10, resultado);
-    }
-
-    
+    } 
 }
